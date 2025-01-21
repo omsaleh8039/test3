@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\test3\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\ProjectsMetigator\test3\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\ProjectsMetigator\test3\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\ProjectsMetigator\test3\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\ProjectsMetigator\test3\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\ProjectsMetigator\test3\Arrays\obj\Debug\net6.0\ref\Arrays.dll
